@@ -1,2 +1,2 @@
-# tsoha2022_
+# tsoha2022
 Tietokantasovellus projekti
